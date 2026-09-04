@@ -1,6 +1,6 @@
 # Minecraft Paper 1.21 Plugin Ideas
 
-> 60 Beginner-to-Intermediate plugin ideas for developers who have built a GunGame plugin and want to level up.
+> 60 plugin ideas I want to build to level up.
 
 ![Java 21](https://img.shields.io/badge/Java-21-orange)
 ![Paper 1.21](https://img.shields.io/badge/Paper-1.21-green)
