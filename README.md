@@ -1,10 +1,6 @@
 # Minecraft Paper 1.21 Plugin Ideas
 
-> 60 plugin ideas I want to build to level up.
-
-![Java 21](https://img.shields.io/badge/Java-21-orange)
-![Paper 1.21](https://img.shields.io/badge/Paper-1.21-green)
-![Status](https://img.shields.io/badge/Status-Planned-blue)
+> A planning list of Minecraft Paper plugin ideas. Entries marked `planned` are ideas; this repository does not contain their implementations.
 
 ---
 
@@ -173,7 +169,9 @@
 
 ---
 
-## Tech Stack
+## Technologies referenced in the ideas
+
+These technologies appear across individual ideas; this planning list does not describe a shared implementation stack.
 
 - **Java 21**
 - **Paper API 1.21**
